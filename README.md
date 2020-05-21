@@ -8,6 +8,8 @@
 #### 使用方法：
 
 ##### 一.BiliBili
-##### 1.准备工作：下载ffmpeg并配置好环境变量（ffmpeg是一个极其强大的音视频处理工具），系统需下载python
-##### 2.终端命令：python BiliDownload.py https://www.bilibili.com/video/BV17k4y167iU
-##### 3.会下载到当前目录，形成两个文件夹，new_video里面就是目标视频了，dash_video/durl_video是临时文件夹，删掉即可
+#####   1.准备工作：
+          下载ffmpeg并配置好环境变量（ffmpeg是一个极其强大的音视频处理工具）
+          系统需下载python
+#####   2.终端命令：python BiliDownload.py https://www.bilibili.com/video/BV17k4y167iU
+#####   3.会下载到当前目录，形成两个文件夹，new_video里面就是目标视频了，dash_video/durl_video是临时文件夹，删掉即可
